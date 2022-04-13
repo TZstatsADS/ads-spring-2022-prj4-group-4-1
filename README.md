@@ -14,7 +14,7 @@ Term: Spring 2022
     5. Xia, Yiming yx2686@columbia.edu
 + Project summary: This project explores two different methods for fairness in ML. A1 refers to LFR (Learning fair representations) and A6 refers to Local Massaging/Local Preferential Sampling. Our implementation for each algorithm can be found under the doc folder. For each of these algorithms, the algorithms were run on a COMPAS dataset and the accuracies, calibration, and other metrics were compared. 
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: [default] Weixun and Yiming implemented and evaluated the performance metrics for A1, Marvin and Ananya implemented and evalueated A6, Sibo and Weixun worked on the description of both algorithms, Ananya is the presenter and worked on the outlines and scripts of the presentation, Marvin, Weixun and Yiming added to the content of the slide.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
