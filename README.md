@@ -12,7 +12,7 @@ Term: Spring 2022
     3. Limpijankit, Marvin ml4431@columbia.edu
     4. Qian, Weixun wq2157@columbia.edu
     5. Xia, Yiming yx2686@columbia.edu
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project explores two different methods for fairness in ML. A1 refers to LFR (Learning fair representations) and A6 refers to Local Massaging/Local Preferential Sampling. Our implementation for each algorithm can be found under the doc folder. For each of these algorithms, the algorithms were run on a COMPAS dataset and the accuracies, calibration, and other metrics were compared. 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
